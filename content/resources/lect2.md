@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-947-race-immigration-and-planning-spring-2005/241e87b07df964b1a048ad1047548df3_lect2.pdf
+file: /media/courses/11-947-race-immigration-and-planning-spring-2005/241e87b07df964b1a048ad1047548df3_lect2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect2.pdf
 uid: 241e87b0-7df9-64b1-a048-ad1047548df3
