@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9b789d74-30c5-c926-79de-a110890687b9
 resourcetype: Document
 title: Students3_4_5_ArcadeMemo.pdf
 uid: 2cf706e8-ec7a-8b4f-2b01-8cffd49a3df0

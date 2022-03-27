@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9b789d74-30c5-c926-79de-a110890687b9
 resourcetype: Document
 title: Student2_TrainingMemo.pdf
 uid: c030c794-9234-857b-d1e9-f4bc5fd162b2
