@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides examples of student project for the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -12,14 +13,14 @@ Students in this course worked in three separate groups to produce final project
 Project Funding
 ---------------
 
-Possible Funding Opportunities through MIT - Student 1 ([PDF]({{< baseurl >}}/resources/student1_fundingmemo))
+Possible Funding Opportunities through MIT - Student 1 ({{% resource_link 0bb80028-0ca2-2ce5-6951-8fff09e456e2 "PDF" %}})
 
 Leadership Training
 -------------------
 
-Developmental Resources for Client - Student 2 ([PDF]({{< baseurl >}}/resources/student2_trainingmemo))
+Developmental Resources for Client - Student 2 ({{% resource_link c030c794-9234-857b-d1e9-f4bc5fd162b2 "PDF" %}})
 
 Arcade Project
 --------------
 
-The Arcade Development Project and Impact on Local Businesses in Framingham, Massachusetts: Analysis and Strategy Plan for the Client - Student 3, Student 4, Student 5 ([PDF]({{< baseurl >}}/resources/students3_4_5_arcadememo))
+The Arcade Development Project and Impact on Local Businesses in Framingham, Massachusetts: Analysis and Strategy Plan for the Client - Student 3, Student 4, Student 5 ({{% resource_link 2cf706e8-ec7a-8b4f-2b01-8cffd49a3df0 "PDF" %}})

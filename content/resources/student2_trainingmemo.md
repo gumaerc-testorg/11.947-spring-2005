@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-947-race-immigration-and-planning-spring-2005/c030c7949234857bd1e9f4bc5fd162b2_Student2_TrainingMemo.pdf
+file: /courses/11-947-race-immigration-and-planning-spring-2005/c030c7949234857bd1e9f4bc5fd162b2_Student2_TrainingMemo.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
