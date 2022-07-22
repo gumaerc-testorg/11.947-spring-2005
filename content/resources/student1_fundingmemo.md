@@ -5,6 +5,7 @@ file: /courses/11-947-race-immigration-and-planning-spring-2005/0bb800280ca22ce5
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
