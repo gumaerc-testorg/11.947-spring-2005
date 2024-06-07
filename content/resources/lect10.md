@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-947-race-immigration-and-planning-spring-2005/988a153c43271f8193c4a51657ff30b8_lect10.pdf
+file_size: 15626
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
