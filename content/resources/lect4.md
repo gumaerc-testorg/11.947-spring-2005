@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-947-race-immigration-and-planning-spring-2005/407e7322c80d2645d4156367931c01cb_lect4.pdf
+file: /courses/11-947-race-immigration-and-planning-spring-2005/407e7322c80d2645d4156367931c01cb_lect4.pdf
 file_size: 131392
 file_type: application/pdf
 learning_resource_types:
