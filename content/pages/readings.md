@@ -79,9 +79,9 @@ Abu-Luban, and Judith Garber. "The Construction of the Geography of Immigration 
 
 Sassen, Saskia. "A New Geography of Centers and Margins." In *The City Reader*. 3rd ed. Routledge, August 1, 2003. ISBN: 0415271738.
 
-Burden, Amanda. [*The Newest New Yorkers 2000: Immigrant New York in the Millenium*](http://citiesofmigration.ca/elibrary/the-newest-new-yorkers-2-immigrant-new-york-in-the-new-millennium/). New York: Department of City Planning, 2004.
+Burden, Amanda. {{% resource_link "2d5d9b2a-7b66-4921-b198-2ed9789c8515" "*The Newest New Yorkers 2000: Immigrant New York in the Millenium*" %}}. New York: Department of City Planning, 2004.
 
-Logan, John. [*America's Newcomers*](http://www.s4.brown.edu/cen2000/newcomersreport/newcomer01.htm). Albany: SUNY Albany, 2003.
+Logan, John. {{% resource_link "5044ec51-c8de-4e1d-a7f0-225249c82b2e" "*America's Newcomers*" %}}. Albany: SUNY Albany, 2003.
 
 Smith, James P., and Barry Edmonston, eds. *The New Americans: Economic, Demographic, and Fiscal Effects of Immigration*. Washington, D.C.: National Academy Press, 1997. ISBN: 0309063566.
 
@@ -107,7 +107,7 @@ Pastor, Manuel. "Economics and Ethnicity: Poverty, Race, and Immigration in Los 
 
 Waldinger, Roger, and Michael I. Lichter. *How the Other Half Works: Immigration and the Social Organization of Labor*. Berkeley: University of California Press, 2003, chapters 1-7. ISBN: 0520231627.
 
-Anrig, Greg, and Andrea Tova. *Immigration, Jobs, and the American Economy*. New York: Twentieth Century Foundation, 2004. ([PDF](http://tcf.org/work/workers_economic_inequality/detail/immigration-jobs-and-the-american-economy))
+Anrig, Greg, and Andrea Tova. *Immigration, Jobs, and the American Economy*. New York: Twentieth Century Foundation, 2004. ({{% resource_link "d2308600-925c-4337-b411-af88135d5615" "PDF" %}})
 
 Bowles, Samuel, and Herbert Gintis. "Social Capital and Community Governance." *The Economic Journal* 112 (2002).
 
@@ -177,9 +177,9 @@ Kasinitz, Philip. "Race, Assimilation," and "Second Generations," Past and Prese
 
 Jaynes, Gerald D. "Immigration and the American Dream." In *Immigration and Race: New Challenges for American Democracy*. Edited by G. D. Jaynes. New Haven: Yale University Press, 2000. ISBN: 0300080050.
 
-Passel, Jeffrey S., Randolph Capps, and Michael E. Fix. "Undocumented Immigrants: Facts and Figures." Urban Institute. January 12, 2004. ([PDF](http://www.urban.org/UploadedPDF/1000587_undoc_immigrants_facts.pdf))
+Passel, Jeffrey S., Randolph Capps, and Michael E. Fix. "Undocumented Immigrants: Facts and Figures." Urban Institute. January 12, 2004. ({{% resource_link "04db45f7-c6c6-48cb-a9da-f861564f1b46" "PDF" %}})
 
-Passel, Jeffrey S. "Estimates of the Size and Characteristics of the Undocumented Population." Pew Hispanic Center Report. March 21, 2005. ([PDF](https://www.pewresearch.org/hispanic/2005/03/21/estimates-of-the-size-and-characteristics-of-the-undocumented-population/))
+Passel, Jeffrey S. "Estimates of the Size and Characteristics of the Undocumented Population." Pew Hispanic Center Report. March 21, 2005. ({{% resource_link "4000aea8-4fcb-454c-b502-3c26ac48cf70" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -197,7 +197,7 @@ Kim, Claire. "The Racial Triangulation of Asian Americans." *Politics and Societ
 
 Omi, Micheal, and Howard Winant. *Racial Formation in the United States*. 2nd ed. New York: Routledge, 1994. ISBN: 0415908647.
 
-"[Structural Racism and Youth Development Issues, Challenges, and Implications](http://www.aspeninstitute.org/publications/structural-racism-youth-development-issues-challenges-implications)." Roundtable on Community Change Working Paper Series. The Aspen Institute, 2004.
+"{{% resource_link "214dac2b-74a9-47d1-8c0b-9431e4167efe" "Structural Racism and Youth Development Issues, Challenges, and Implications" %}}." Roundtable on Community Change Working Paper Series. The Aspen Institute, 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -215,7 +215,7 @@ Cruz, Jose E. "Interminority Relations in Urban Settings: Lessons from the Black
 
 Suarez-Orozco, Carola, and Marcelo Suarez-Orozco. *Children of Immigration*. Cambridge: Harvard University Press, 2001, chapter 4. ISBN: 0674008383.
 
-Lawrence, Keith, Stacey Sutton, Anne Kubisch, Gretchen Susi and Karen Fulbright-Anderson. "Structural Racism and Community Building." The Aspen Institute Roundtable on Community Change. Washington, DC: The Aspen Institute, 2004. ([PDF](https://www.aspeninstitute.org/publications/structural-racism-community-building/))
+Lawrence, Keith, Stacey Sutton, Anne Kubisch, Gretchen Susi and Karen Fulbright-Anderson. "Structural Racism and Community Building." The Aspen Institute Roundtable on Community Change. Washington, DC: The Aspen Institute, 2004. ({{% resource_link "c97a63ca-87cd-4f6c-9039-25393a739b59" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
